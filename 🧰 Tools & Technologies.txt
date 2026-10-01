@@ -1,0 +1,9 @@
+🧰 Tools & Technologies
+Tool/Technology	Purpose
+Python	Programming and ML development
+Pandas	Data handling
+NumPy	Numerical operations
+Matplotlib	Data visualization
+Scikit-learn	Machine Learning and preprocessing
+Streamlit	Interactive web application
+VS Code	Development environment
